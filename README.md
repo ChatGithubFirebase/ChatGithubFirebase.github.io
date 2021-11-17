@@ -1,2 +1,2 @@
 # ChatGithubFirebase.github.io
-Chat hosteado en Github, autentificación de Google con Firebase y base de datos de Cloud Firestore
+Ejemplo de un chat y acceso a Firebase (Firestore con Google)
